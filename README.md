@@ -1,8 +1,8 @@
 # Eternal Return - Files (Sprites)
 
 All sprites from Eternal Return according to the most recent patch. All leaked files were removed. <br>
-Total Sprites: **4.540** **(Download all shown sprites!)** <br>
-Current Patch: **v0.50.0** <br>
+Total Sprites: **4.638** **(Download all shown sprites!)** <br>
+Current Patch: **v0.51.0** <br>
 
 Official NimbleNeuron FanKit: **[Click here!](https://drive.google.com/drive/folders/1bgW32L09YPpRgQKtH4C_TAd3Kr0N9Y90)** <br>
 FanKit Policy: **[Click here!](https://drive.google.com/file/d/11oFofiiq46saFCAGnXZHgcQKNQuSUphU/view?usp=sharing)**
